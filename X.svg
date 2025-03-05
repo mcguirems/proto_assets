@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:serif="http://www.serif.com/" version="1.1" viewBox="0 0 1024 1024">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <polygon class="st0" points="517.3 465.5 374 260.5 297.5 260.5 475.1 514.5 497.4 546.4 497.4 546.4 649.4 763.8 725.8 763.8 539.6 497.4 517.3 465.5"/>
+  <path class="st0" d="M512,0C229.4,0,0,229.4,0,512s229.4,512,512,512,512-229.4,512-512S794.6,0,512,0ZM626,799.6l-153.8-223.8-192.6,223.8h-49.8l220.2-256L229.8,223h168l145.6,212,182.4-212h49.8l-210,244.1h0l228.4,332.4h-168Z"/>
+</svg>
